@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<View backgroundColor="#0065B0" height="10%">
+			<Label>HOLAAA TITANIUM!</Label>
+		</View>
+		<View backgroundColor="#EAEAEA">
+			<Button onClick="doClick" title="Alerta"/>
+		</View>
+	</Window>
+</Alloy>

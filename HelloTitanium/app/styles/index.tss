@@ -1,0 +1,20 @@
+"Button": {
+	borderWidth: 2,
+	borderRadius: 4,
+	font: {
+		fontFamily:'Helvetica',
+        fontSize: '24dp',
+        fontStyle: 'normal',
+        fontWeight: 'bold'
+    },
+	width: "70%",
+	height: "70dp"
+},
+Label: {
+	font: {
+		fontFamily:'Helvetica',
+        fontStyle: 'normal',
+        fontSize: '18dp'
+   },
+   color: 'white'
+}
